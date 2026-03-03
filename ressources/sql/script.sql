@@ -1,3 +1,4 @@
+-- Active: 1757937507200@@127.0.0.1@8889@OC_P2
 CREATE TABLE `USERS` (
   `id` integer PRIMARY KEY AUTO_INCREMENT,
   `email` varchar(255),
